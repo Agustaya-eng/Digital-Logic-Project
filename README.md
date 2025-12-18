@@ -22,5 +22,24 @@ The design was first validated in CircuitVerse and then translated to
 hardware.
 
 Hardware used
+- Solderless breadboard and jumper wires
+- 74LS175 (D-Flip Flop), assorted logic IC's, 555 timer
+- 1kΩ, 100kΩ resistors for the 555 timer circuit
+- 10µF and 0.1 µF capacitors for the 555 timer circuit
+- 2 LED's
+- 2 1kΩ current-limiting resistors for LEDs
 
-[photo here]
+## Hardware Photo
+![Physical Implementation] (images/Screenshot 2025-12-16 202537.png)
+
+
+## Simulation Photos
+
+![Main] (images/Screenshot Lab 9 Main.png)
+
+![Output Logic] (images/Scrrenshot Lab 9 Output Logic.png)
+
+![Steering Logic] (images/Screenshot Steering Logic)
+
+![State Memory] (images/Screenshot Memory State)
+
