@@ -3,6 +3,13 @@
 ## Overview of Project
 This repository documents a digital logic circuit designed for an Intro to Logic Design course. The circuit was designed and simulated in CircuitVerse, then implemented and debugged on physical hardware using discrete logic ICs. The goal of this project was to translate a theoretical design into a working real-world circuit while validating correct behavior through simulation and hardware testing.
 
+## Circuit Description
+The circuit has one pushbutton switch and 2 light-emitting diodes. One LED is labelled "YES",
+and the other is labelled "NO". When the switch is pressed and held down, both LEDs are off.
+When the switch is released, one of three conditions result in a seemingly random, equally-likely
+way: (1) only the YES light is on; (2) only the NO light is on, or (3) the YES and NO lights
+alternate being on in a cyclical pattern.
+
 ## Design and Simulation
 The circuit was first designed and validated in CircuitVerse to ensure correct logical behavior and state transitions prior to hardware implementation.
 
