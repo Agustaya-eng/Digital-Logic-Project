@@ -13,7 +13,7 @@ Concepts demonstrated:
 - Clocked flip-flops
 - Next-state logic
 
-CircuitVerse link: [Link](https://circuitverse.org/users/290555/projects/ece-265-lab-9-d56acad1-7e8d-4a1e-9048-dd01f5ff1d15)
+CircuitVerse link: [Link to Digital Simulation](https://circuitverse.org/users/290555/projects/ece-265-lab-9-d56acad1-7e8d-4a1e-9048-dd01f5ff1d15)
 
 ## Physical Implementation
 
@@ -30,16 +30,16 @@ Hardware used
 - 2 1kΩ current-limiting resistors for LEDs
 
 ## Hardware Photo
-![Physical Implementation](Images/Screenshot 2025-12-16 202537.png)
+![Physical Implementation](Images/Hardware_Photo.png)
 
 
 ## Simulation Photos
 
-![Main](Images/Screenshot Lab 9 Main.png)
+![Main](Images/Main.png)
 
-![Output Logic](Images/Scrrenshot Lab 9 Output Logic.png)
+![Output Logic](Images/Output_Logic.png)
 
-![Steering Logic](Images/Screenshot Steering Logic.png)
+![Steering Logic](Images/Steering_Logic.png)
 
-![State Memory](Images/Screenshot State Memory.png)
+![State Memory](Images/State_Memory.png)
 
