@@ -30,16 +30,16 @@ Hardware used
 - 2 1kΩ current-limiting resistors for LEDs
 
 ## Hardware Photo
-![Physical Implementation] (images/Screenshot 2025-12-16 202537.png)
+![Physical Implementation](images/Screenshot 2025-12-16 202537.png)
 
 
 ## Simulation Photos
 
-![Main] (images/Screenshot Lab 9 Main.png)
+![Main](images/Screenshot Lab 9 Main.png)
 
-![Output Logic] (images/Scrrenshot Lab 9 Output Logic.png)
+![Output Logic](images/Scrrenshot Lab 9 Output Logic.png)
 
-![Steering Logic] (images/Screenshot Steering Logic)
+![Steering Logic](images/Screenshot Steering Logic.png)
 
-![State Memory] (images/Screenshot Memory State)
+![State Memory](images/Screenshot Memory State.png)
 
