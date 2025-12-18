@@ -6,14 +6,14 @@ This repository documents a digital logic circuit designed for an Intro to Logic
 ## Design and Simulation
 The circuit was first designed and validated in CircuitVerse to ensure correct logical behavior and state transitions prior to hardware implementation.
 
-Key concepts demonstrated:
+Concepts demonstrated:
 - Combinational logic
 - Sequential logic
 - State encoding
 - Clocked flip-flops
 - Next-state logic
 
-CircuitVerse link: [Link] (https://circuitverse.org/users/290555/projects/ece-265-lab-9-d56acad1-7e8d-4a1e-9048-dd01f5ff1d15)
+CircuitVerse link: [Link](https://circuitverse.org/users/290555/projects/ece-265-lab-9-d56acad1-7e8d-4a1e-9048-dd01f5ff1d15)
 
 ## Physical Implementation
 
@@ -30,16 +30,16 @@ Hardware used
 - 2 1kΩ current-limiting resistors for LEDs
 
 ## Hardware Photo
-![Physical Implementation](images/Screenshot 2025-12-16 202537.png)
+![Physical Implementation](Images/Screenshot 2025-12-16 202537.png)
 
 
 ## Simulation Photos
 
-![Main](images/Screenshot Lab 9 Main.png)
+![Main](Images/Screenshot Lab 9 Main.png)
 
-![Output Logic](images/Scrrenshot Lab 9 Output Logic.png)
+![Output Logic](Images/Scrrenshot Lab 9 Output Logic.png)
 
-![Steering Logic](images/Screenshot Steering Logic.png)
+![Steering Logic](Images/Screenshot Steering Logic.png)
 
-![State Memory](images/Screenshot Memory State.png)
+![State Memory](Images/Screenshot State Memory.png)
 
