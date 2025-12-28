@@ -39,14 +39,17 @@ Hardware used
 ## Hardware Photo
 ![Physical Implementation](Images/Hardware_Photo.png)
 
-
 ## Simulation Photos
 
+Main
 ![Main](Images/Main.png)
 
+Output Logic 
 ![Output Logic](Images/Output_Logic.png)
 
+Steering Logic
 ![Steering Logic](Images/Steering_Logic.png)
 
+State Memory
 ![State Memory](Images/State_Memory.png)
 
